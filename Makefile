@@ -10,4 +10,4 @@ setup:
 
 test-run:
 	# docker-compose exec web bin/magento cache:flush
-	docker-compose run cypress bash -c "npx cypress run --browser chrome"
+	docker-compose run test bash -c "npx cypress run --browser chrome"

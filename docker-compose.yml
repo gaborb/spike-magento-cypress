@@ -20,7 +20,7 @@ services:
   #     - "8580:80"
   #   links:
   #     - db 
-  cypress:
+  test:
     build:
       context: .
       dockerfile: docker/cypress/Dockerfile

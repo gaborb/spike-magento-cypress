@@ -1,3 +1,4 @@
 {
-    "baseUrl": "http://local.magento"
+    "baseUrl": "http://local.magento",
+    "pageLoadTimeout": 120000
 }
