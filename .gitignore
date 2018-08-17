@@ -1,0 +1,5 @@
+# Cypress
+.DS_Store
+test/src/.Trash-0/
+test/src/cypress/videos/
+test/src/cypress/screenshots/
